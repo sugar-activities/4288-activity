@@ -1,0 +1,13 @@
+Version 3:
+- Se agrega modalidad para jugar contra la computadora.
+- Se cambia el ícono.
+
+Version 2:
+- Se agrega el cursor estándar de Sugar.
+- Al hacer puntos agrega un sonido.
+- Al hacer puntos muestra las fichas que hicieron puntos.
+- Se mejora el código para respetar los estándares PEP8.
+
+Versión 1:
+- Es una versión totalmente funcional, pero todavía hay muchas cosas que se pueden hacer para mejorarlo, las mismas están enumeradas en el archivo TODO.
+
